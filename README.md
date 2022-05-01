@@ -135,4 +135,4 @@ The entire codebase is under [MIT license](LICENSE).
 
 If you have any technical questions, please submit new issues.
 
-If you have any other questions, please contact: Wentao Zhang [wentao.zhang@pku.edu.cn] and Zeang Sheng[shengzeang18@pku.edu.cn].
+If you have any other questions, please contact: Wentao Zhang[wentao.zhang@pku.edu.cn] and Zeang Sheng[shengzeang18@pku.edu.cn].
