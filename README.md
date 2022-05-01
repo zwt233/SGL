@@ -127,12 +127,12 @@ Please cite our [paper](https://dl.acm.org/doi/pdf/10.1145/3485447.3511986) if y
 }
 ```
 
-## License
-
-The entire codebase is under [MIT license](LICENSE).
-
 ## Contact
 
 If you have any technical questions, please submit new issues.
 
 If you have any other questions, please contact: Wentao Zhang[wentao.zhang@pku.edu.cn] and Zeang Sheng[shengzeang18@pku.edu.cn].
+  
+## License
+
+The entire codebase is under [MIT license](LICENSE).
