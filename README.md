@@ -15,8 +15,8 @@ The key difference between SGL and existing GNN toolkits, such as PyTorch Geomet
   in <a href="https://arxiv.org/abs/2203.00638" target="_blank" rel="nofollow">PaSca</a>, SGL can scale to graph data with
   billions of nodes and edges. 
 + **Auto neural architecture search**: SGL can automatically choose decent and scalable graph neural architectures according to specific tasks and
-  pre-defined multiple objectives (e.g., inference time, memory cost and predictive performance).
-+ **Ease of use**: SGL has user-friendly interfaces of implementing existing scalable GNNs and executing various downstream tasks.
+  pre-defined multiple objectives (e.g., inference time, memory cost, and predictive performance).
++ **Ease of use**: SGL has user-friendly interfaces for implementing existing scalable GNNs and executing various downstream tasks.
 
 ## Installation
 
