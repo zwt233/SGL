@@ -34,7 +34,7 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 <p class="center">
     <img src="img/GraphSAGE.jpg" width="60%">
     <br>
-    <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
+    <em>Source: Inductive Representation Learning on Large Graphs</em>
 </p>
 
 ### Node-wise sampling
