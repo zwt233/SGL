@@ -22,6 +22,11 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 6. **Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2104.09376) [[code]](https://github.com/skepsun/SAGN_with_SLE)
 7. **Graph Attention Multi-Layer Perceptron** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2108.10097) [[code]](https://github.com/zwt233/GAMLP)
 7. **NAFS: A Simple yet Tough-to-Beat Baseline for Graph Representation Learning** [OpenReview 2022] [[paper]](https://openreview.net/forum?id=dHJtoaE3yRP) [[code]](https://openreview.net/attachment?id=dHJtoaE3yRP&name=supplementary_material)
+<p class="center">
+    <img src="img/NDLS.PNG" width="60%">
+    <br>
+    <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
+</p>
 
 <a name="Sampling" />
 
