@@ -13,6 +13,11 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 <a name="Linear-Model" />
 
 ## 1.Linear Model
+<p class="center">
+    <img src="img/NDLS.jpg" width="60%">
+    <br>
+    <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
+</p>
 
 1. **Simplifying Graph Convolutional Networks** [ICML 2019] [[paper]](https://arxiv.org/abs/1902.07153) [[code]](https://github.com/Tiiiger/SGC)
 2. **Scalable Graph Neural Networks via Bidirectional Propagation** [NeurIPS 2020] [[paper]](https://arxiv.org/abs/2010.15421) [[code]](https://github.com/chennnM/GBP)
@@ -22,17 +27,17 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 6. **Scalable and Adaptive Graph Neural Networks with Self-Label-Enhanced training** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2104.09376) [[code]](https://github.com/skepsun/SAGN_with_SLE)
 7. **Graph Attention Multi-Layer Perceptron** [Arxiv 2021] [[paper]](https://arxiv.org/abs/2108.10097) [[code]](https://github.com/zwt233/GAMLP)
 7. **NAFS: A Simple yet Tough-to-Beat Baseline for Graph Representation Learning** [OpenReview 2022] [[paper]](https://openreview.net/forum?id=dHJtoaE3yRP) [[code]](https://openreview.net/attachment?id=dHJtoaE3yRP&name=supplementary_material)
-<p class="center">
-    <img src="img/NDLS.PNG" width="60%">
-    <br>
-    <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
-</p>
 
 <a name="Sampling" />
 
 ## 2.Sampling
 
 ### Node-wise sampling
+<p class="center">
+    <img src="img/GraphSAGE.jpg" width="60%">
+    <br>
+    <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
+</p>
 
 1. **Inductive Representation Learning on Large Graphs** [NIPS 2017] [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/twjiang/graphSAGE-pytorch)
 2. **Scaling Graph Neural Networks with Approximate PageRank** [KDD 2020] [[paper]](https://arxiv.org/abs/2007.01570) [[code]](https://github.com/TUM-DAML/pprgo_pytorch)
