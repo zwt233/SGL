@@ -31,13 +31,13 @@ To scale GNNs to extremely large graphs, existing works can be classified into t
 <a name="Sampling" />
 
 ## 2.Sampling
-
-### Node-wise sampling
 <p class="center">
     <img src="img/GraphSAGE.jpg" width="60%">
     <br>
     <em>Source: Node Dependent Local Smoothing for Scalable Graph Learning</em>
 </p>
+
+### Node-wise sampling
 
 1. **Inductive Representation Learning on Large Graphs** [NIPS 2017] [[paper]](https://arxiv.org/abs/1706.02216) [[code]](https://github.com/twjiang/graphSAGE-pytorch)
 2. **Scaling Graph Neural Networks with Approximate PageRank** [KDD 2020] [[paper]](https://arxiv.org/abs/2007.01570) [[code]](https://github.com/TUM-DAML/pprgo_pytorch)
